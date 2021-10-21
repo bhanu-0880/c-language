@@ -1,8 +1,7 @@
 #include<stdio.h>
 int main()
 {
-	int i,n,count=0;
-	scanf("%d",&n);
+	int i,n=100,count=0;
 	for(i=1;i<=n;i++)
 	{
 		if(n%i==0)
