@@ -40,11 +40,4 @@ int factor_count(int n)
 	}
 	return count;
 }
-int r;
-while(n!=0)
-{
-	r=n%10;
-	
-	n=n/10;
-	
-}
+
