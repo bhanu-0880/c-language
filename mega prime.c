@@ -40,7 +40,6 @@ int factor_count(int n)
 	}
 	return count;
 }
-int megaprime(int n)
 int r;
 while(n!=0)
 {
